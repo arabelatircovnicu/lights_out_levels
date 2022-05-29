@@ -1,0 +1,15 @@
+.Cell {
+  height: 80px;
+  width: 80px;
+  background-color: green;
+}
+
+.CellStyle {
+  background-color: #00bcd4;
+}
+
+.imageStyle {
+  height: 80px;
+  width: 80px;
+  border-color: green;
+}
